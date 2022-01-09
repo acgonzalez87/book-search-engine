@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgonzalez87/book-search-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acgonzalez87/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/acgonzalez87/book-search-engine#readme"
 }
