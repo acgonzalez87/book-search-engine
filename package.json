@@ -15,7 +15,9 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "graphql": "^16.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acgonzalez87/book-search-engine.git"
