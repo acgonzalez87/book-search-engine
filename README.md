@@ -25,8 +25,7 @@ Using MERN stack, React front end, MongoDB database, and Node.js/Express.js serv
 
 Use npm start to start the server and the react app will be launched in your browser. Here is the link to the app deployed on heroku:
 
-<img src="https://i.imgur.com/dgDoeEr.png" 
-alt="insomnia image" width="240" height="180" border="10" />
+https://acg-book-search.herokuapp.com/
 
 ## [Contributing](#table-of-contents)
 
